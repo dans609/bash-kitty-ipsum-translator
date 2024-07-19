@@ -45,3 +45,7 @@ rm doggy_ipsum_1.txt
 cat doggy_ipsum_1.txt
 diff kitty_ipsum_1.txt doggy_ipsum_1.txt
 man diff
+diff kitty_ipsum_1.txt doggy_ipsum_1.txt -n
+diff kitty_ipsum_1.txt doggy_ipsum_1.txt -y
+man diff
+diff kitty_ipsum_1.txt doggy_ipsum_1.txt --color
