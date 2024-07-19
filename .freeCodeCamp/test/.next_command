@@ -1,0 +1,2 @@
+grep -n 'cat[a-z]*' kitty_ipsum_2.txt
+grep --color 'cat[a-z]*' kitty_ipsum_2.txt
