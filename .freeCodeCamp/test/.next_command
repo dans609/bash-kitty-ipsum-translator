@@ -20,3 +20,4 @@ cat kitty_ipsum_1.txt < translate.sh
 cat kitty_ipsum_1.txt < ./translate.sh
 ./translate.sh < kitty_ipsum_1.txt
 cat kitty_ipsum_1.txt
+cat kitty_ipsum_1.txt
