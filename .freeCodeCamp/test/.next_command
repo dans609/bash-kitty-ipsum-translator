@@ -52,3 +52,5 @@ diff kitty_ipsum_1.txt doggy_ipsum_1.txt --color
 ./translate.sh > doggy_ipsum_2.txt
 ./translate.sh kitty_ipsum_2.txt > doggy_ipsum_2.txt
 cat doggy_ipsum_2.txt
+diff kitty_ipsum_2.txt goddy_ipsum_2.txt --color
+diff kitty_ipsum_2.txt doggy_ipsum_2.txt --color
